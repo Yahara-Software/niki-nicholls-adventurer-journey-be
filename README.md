@@ -16,13 +16,13 @@ Given the Path Instructions above, programmatically parse the instructions and d
 - Do not round to the nearest step.
 - After program executes the answer should be returned.
 
-**To Run the Program**
+**To Run the Program:**
 - Run main.py
 - Program automatically tests instructions "15F6B6B5L16R8B16F20L6F13F11R" then allows the user to enter new instructions if desired
 - To run test cases run distance_calculator_tests.py
 - Program uses Python 3.12
 
-**NOTE**
+**NOTE:**
 The program has two methods to calculate euclidean distance:
 
 1. One method assumes that the adventurer is always facing North. For example "5R5R" translates to 5 steps East, 5 steps East.
